@@ -6,12 +6,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3-38B2AC?logo=tailwind-css)
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?logo=react)
 
-## 🖥️ Demonstração
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/2f3d3c/b8c4ba?text=Posts+App+-+Grupo+Moas" alt="Demonstração da aplicação" width="800"/>
-</div>
-
 ## 📋 Sobre o Projeto
 
 Aplicação web desenvolvida como parte do processo seletivo para **Desenvolvedor Frontend Júnior** do **Grupo Moas**. O projeto demonstra habilidades em:
